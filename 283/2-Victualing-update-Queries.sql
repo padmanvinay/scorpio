@@ -1,0 +1,14 @@
+update stock_items set item_id= '1813611d-ba17-483f-9d7c-4b8a196fe08d' where item_id ='52837e59-4383-4224-8995-9f2d5056325b' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= 'e58c478f-dde2-4444-b196-266224702da3' where item_id ='f7c5e2b8-3ed7-4027-8de1-dcba9b8302c7' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= '25d20a21-7521-4709-a042-3f2d0327584d' where item_id ='d6cbb370-7848-4ab3-854e-c03fbd9a6476' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= 'b673f056-8fdf-4280-bb41-34c54d5e9dc3' where item_id ='c479b530-f34c-4d84-ac16-e52111b45dd0' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= 'bb4fd6d4-825e-4831-bdbe-5821393f9268' where item_id ='11b7616e-c16e-445e-bc49-5ac42282f9a7' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= '2acf0025-6a42-4a0d-b150-c351790ef6a5' where item_id ='da60bda6-3604-49da-b1af-cc5a7dee5d06' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= '82322739-d325-4004-836b-abd6d5640e40' where item_id ='c00b5f9e-2e5b-49d2-a763-891b968f3ab7' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= '0b55d0c8-5d21-42a5-8462-581b82e1fdc2' where item_id ='79e13e9d-0640-481f-a8f8-45d6f2b6c36d' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= 'e434abef-8c63-41ab-a4a3-7d3a2b151d96' where item_id ='8ab39f40-ac18-4b5b-b9af-3fb88dc1c4ea' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= 'e1d4b6cd-dc91-4159-a711-48ad3a61404d' where item_id ='cbfe47a5-dbb4-427a-9913-2aa3cc90c0db' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= 'ce4ad52a-56fa-4d6e-8c31-5bf1c5713bea' where item_id ='5a713440-8a4e-4beb-bc69-5ef5c972fe7c' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= '80372b82-fe7d-40b3-9d8c-d3a29339e33c' where item_id ='3a8056c8-6bb5-4b2c-9137-401e542891fb' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= '00775172-db99-44fa-841f-f45a4c1d5ec9' where item_id ='45e4258e-5de6-46b6-a06e-f5aed099a1b8' and stock_master_id in (select id from stock_master where vessel_id = 283);
+update stock_items set item_id= '42890db1-2dc6-42c4-8aca-26a7aabaf325' where item_id ='cf2df6d1-2871-4b3d-b96d-5c9fc427ba45' and stock_master_id in (select id from stock_master where vessel_id = 283);

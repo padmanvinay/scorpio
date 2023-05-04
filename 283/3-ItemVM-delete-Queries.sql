@@ -1,0 +1,14 @@
+delete from item_vessel_mapping where item_id='52837e59-4383-4224-8995-9f2d5056325b' and vessel_id=283;
+delete from item_vessel_mapping where item_id='f7c5e2b8-3ed7-4027-8de1-dcba9b8302c7' and vessel_id=283;
+delete from item_vessel_mapping where item_id='d6cbb370-7848-4ab3-854e-c03fbd9a6476' and vessel_id=283;
+delete from item_vessel_mapping where item_id='c479b530-f34c-4d84-ac16-e52111b45dd0' and vessel_id=283;
+delete from item_vessel_mapping where item_id='11b7616e-c16e-445e-bc49-5ac42282f9a7' and vessel_id=283;
+delete from item_vessel_mapping where item_id='da60bda6-3604-49da-b1af-cc5a7dee5d06' and vessel_id=283;
+delete from item_vessel_mapping where item_id='c00b5f9e-2e5b-49d2-a763-891b968f3ab7' and vessel_id=283;
+delete from item_vessel_mapping where item_id='79e13e9d-0640-481f-a8f8-45d6f2b6c36d' and vessel_id=283;
+delete from item_vessel_mapping where item_id='8ab39f40-ac18-4b5b-b9af-3fb88dc1c4ea' and vessel_id=283;
+delete from item_vessel_mapping where item_id='cbfe47a5-dbb4-427a-9913-2aa3cc90c0db' and vessel_id=283;
+delete from item_vessel_mapping where item_id='5a713440-8a4e-4beb-bc69-5ef5c972fe7c' and vessel_id=283;
+delete from item_vessel_mapping where item_id='3a8056c8-6bb5-4b2c-9137-401e542891fb' and vessel_id=283;
+delete from item_vessel_mapping where item_id='45e4258e-5de6-46b6-a06e-f5aed099a1b8' and vessel_id=283;
+delete from item_vessel_mapping where item_id='cf2df6d1-2871-4b3d-b96d-5c9fc427ba45' and vessel_id=283;

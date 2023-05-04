@@ -1,0 +1,1 @@
+update stock_items set item_id= 'e58c478f-dde2-4444-b196-266224702da3' where item_id ='f7c5e2b8-3ed7-4027-8de1-dcba9b8302c7' and stock_master_id in (select id from stock_master where vessel_id = 257);
