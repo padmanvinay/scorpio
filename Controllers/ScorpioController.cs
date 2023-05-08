@@ -39,7 +39,7 @@ namespace scorpio.Controllers
         [HttpPost("Querywrite")]
         public IActionResult Post(QueryData queryData)
         {
-            var sqlQueries = $"{queryData.QueryOne}\n{queryData.QueryTwo}\n{queryData.QueryThree}\n";
+            var sqlQueries = $"{queryData.QueryOne}\n{queryData.QueryTwo}\n{queryData.QueryThree}\n{queryData.QueryNew}\n";
             var folderPath = queryData.vesselnumber;
             Directory.CreateDirectory(folderPath);
             var filePath = Path.Combine(folderPath, "1-Scorpio-update-Queries.sql");
@@ -127,7 +127,7 @@ namespace scorpio.Controllers
             {
                 if (streamWriter.BaseStream.Length == 0)
                 {
-                    var sqlQuery = $"delete from item_master where item_id in (";
+                    var sqlQuery = $"delete from item_master where id in (";
                     streamWriter.WriteLine(sqlQuery);
                 }
                 streamWriter.Write(sqlQueries8);

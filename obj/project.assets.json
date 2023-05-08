@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\scorpio\\scorpio\\scorpio.csproj",
+      "projectUniqueName": "D:\\scorpio-excel-automater\\scorpio\\scorpio\\scorpio.csproj",
       "projectName": "scorpio",
-      "projectPath": "D:\\scorpio\\scorpio\\scorpio.csproj",
+      "projectPath": "D:\\scorpio-excel-automater\\scorpio\\scorpio\\scorpio.csproj",
       "packagesPath": "C:\\Users\\vinay.p\\.nuget\\packages\\",
-      "outputPath": "D:\\scorpio\\scorpio\\obj\\",
+      "outputPath": "D:\\scorpio-excel-automater\\scorpio\\scorpio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinay.p\\AppData\\Roaming\\NuGet\\NuGet.Config"
